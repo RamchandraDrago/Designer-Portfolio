@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Travel UI",
+    "desc": "World is a platform where the travelers will able pick the best package from the travel agencies.",
+    "image": "travel",
+    "category": "uidesign",
+    "links": {
+      "view": "https://www.behance.net/gallery/195109215/Travel-Website",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Garden UI",
+    "desc": "Discover gardening tips, plant care guides, and landscape inspiration to transform your outdoor space.",
+    "image": "garden",
+    "category": "uidesign",
+    "links": {
+      "view": "https://www.behance.net/gallery/210055979/Garden-Website",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Restaurant UI",
+    "desc": "Food websites offer recipes, cooking tips, and meal ideas, making it easy for users to discover and enjoy diverse cuisines.",
+    "image": "restaurant",
+    "category": "uidesign",
+    "links": {
+      "view": "https://www.behance.net/gallery/210062219/Restaurant",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Travel App Login UI",
+    "desc": "Streamline your journey with a seamless and secure travel login experience, designed for effortless access to your travel plans.",
+    "image": "travelloginui",
+    "category": "uidesign",
+    "links": {
+      "view": "https://www.behance.net/gallery/210063301/Travel-App-Login-Ui",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Expense Tracker",
+    "desc": "An expense tracker case study typically involves analyzing how a system or application helps users record, and monitor their spending habits.",
+    "image": "Expense Manager",
+    "category": "casestudy",
+    "links": {
+      "view": "https://www.behance.net/gallery/210094131/Expense-Tracker",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "UI & UX Internship",
+    "desc": "Successfully completed a UI/UX internship, gaining hands-on experience in user-centered design and improving digital product interfaces.",
+    "image": "internship certificate",
+    "category": "certificate",
+    "links": {
+      "view": "https://drive.google.com/file/d/1-CjnoEfgqQzr8qgLpLtrLuSpRKgwO94J/view?usp=drive_link",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Chat GPT",
+    "desc": "A certification in ChatGPT from GUVI validates proficiency in using and applying OpenAI's ChatGPT technology.",
+    "image": "Chatgpt",
+    "category": "certificate",
+    "links": {
+      "view": "https://drive.google.com/file/d/1nd8UPngXXMGE1T7QlIPg5o-iqAjZvzPO/view?usp=drive_link",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Webinar on Figma",
+    "desc": "Webinar on Figma to explore powerful design tools and collaboration features for seamless UI/UX creation",
+    "image": "guvi webinar",
+    "category": "certificate",
+    "links": {
+      "view": "https://drive.google.com/file/d/1mYQIl3czCTvsprUc4nrrwW7n5ztBrjmV/view?usp=drive_link",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "UI UX Bootcamp",
+    "desc": "Completed an intensive UI/UX Bootcamp, mastering design principles, user research, prototyping, and usability testing.",
+    "image": "dementee",
+    "category": "certificate",
+    "links": {
+      "view": "https://drive.google.com/file/d/150jGowtKuHkV1x7ejYqrrkO6176p_6nh/view?usp=drive_link",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Real Estate",
+    "desc": "Design an eye-catching real estate poster that highlights property features with clear visuals, bold headings, and a clean layout to attract potential buyers.",
+    "image": "realestate",
+    "category": "poster",
+    "links": {
+      "view": "https://drive.google.com/file/d/1WIc5ffGgvF71Wl1auZNi6Oe2jYydZHA8/view?usp=drive_link",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Education",
+    "desc": "Create an engaging education poster with vibrant visuals, concise information, and a well-structured layout to inspire learning and capture attention.",
+    "image": "education",
+    "category": "poster",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ct-JfuXeRo81BEsJVu-NAwZrGX6LJYUA/view?usp=drive_link",
+      "edit": "#"
+    }
+  },
+  {
+    "name": "Real Estate",
+    "desc": "Design an eye-catching real estate poster that highlights property features with clear visuals, bold headings, and a clean layout to attract potential buyers.",
+    "image": "realestate1",
+    "category": "poster",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Moa45Nv0tfn1ATyNHurDsEEvnNrauath/view?usp=drive_link",
+      "edit": "#"
+    }
+  }
+  
+ 
+]
